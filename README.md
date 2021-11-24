@@ -2,7 +2,7 @@
 
 
 - 🔭 Pretendo trabalhar back-end ou front-end.
-- 🌱 Atualmente estou estudando JavaScript.
+- 🌱 Atualmente estou estudando JavaScript e PHP.
 - 📫 Meu email: karen.kvam@ymail.com
 - 😄 Pronomes: ela/dela
 
