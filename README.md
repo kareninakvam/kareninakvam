@@ -1,7 +1,9 @@
-### Olá! Eu sou a Karen Kvam! 👋
+### Hi there! 👋
 
+My name is Karen Kvam and I'm a web developer. 💻
+I primarily work with PHP and CodeIgniter, but I also dabble in mobile development using Flutter and have knowledge in Java. ☕
+Currently studying Data Science at Univesp. 📊
 
-- 🔭 Atualmente atuo como desenvolvedora back-end, utilizando PHP e CodeIgniter.
-- 📫 Meu email: karen.kvam@ymail.com
-- 😄 Pronomes: ela/dela
+Email: karen.kvam@ymail.com
 
+Pronouns: she/her 🌸
