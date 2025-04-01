@@ -2,7 +2,7 @@
 
 My name is Karen Kvam and I'm a web developer. 💻
 
-I primarily work with PHP and CodeIgniter, but I also dabble in mobile development using Flutter and have knowledge in Java. ☕
+I primarily work with PHP with Laravel and ZendFramework, but I also dabble in mobile development using Flutter and have knowledge in Java. ☕
 
 Currently studying Data Science at Univesp. 📊
 
