@@ -1,3 +1,7 @@
+![Banner do perfil](https://i.imgur.com/vEkMh55.png)
+
+
+
 ### Hi there! 👋
 
 My name is Karen Kvam and I'm a web developer. 💻
